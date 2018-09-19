@@ -1,0 +1,32 @@
+body
+    {
+        background: #93e192;
+    }
+    
+.addButton
+    {
+    color: yellow;
+    background: red;
+    font-size: 14px;
+    }
+
+.subButton
+    {
+    background: #ffa400;
+    color: white;
+    font-size: 14px;
+    }
+
+.mulButton
+    {
+    background: #0409ff;
+    color: #9bc7ea;
+    font-size: 14px;
+    }
+
+.divButton
+    {
+    background: #176b08;
+    color: white;
+    font-size: 14px;
+    }
